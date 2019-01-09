@@ -1,6 +1,6 @@
 {
     "name": "hey-me",
-    "version": "2.0.0",
+    "version": "2.0.2",
     "description": "Just Hey Yourself",
     "main": "index.js",
     "repository": "rajatrao777/npm-hey-package/",
@@ -9,5 +9,6 @@
         "npm",
         "package",
         "hey"
-      ]
+    ]
+    
 }
