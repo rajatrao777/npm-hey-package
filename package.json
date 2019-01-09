@@ -9,6 +9,6 @@
         "npm",
         "package",
         "hey"
-    ]
-    
+    ],
+    "dependencies": {}
 }
